@@ -4,41 +4,72 @@
     "name_arabic": "الفاتحة",
     "name_english": "Al-Fatiha",
     "name_urdu": "الفاتحہ",
-    "total_verses": 7
-  },
-  {
-    "surah_number": 2,
-    "name_arabic": "البقرة",
-    "name_english": "Al-Baqarah",
-    "name_urdu": "البقرہ",
-    "total_verses": 286
-  },
-  {
-    "surah_number": 3,
-    "name_arabic": "آل عمران",
-    "name_english": "Aal-E-Imran",
-    "name_urdu": "آل عمران",
-    "total_verses": 200
+    "total_verses": 7,
+    "verses": [
+      {
+        "verse_number": 1,
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation_urdu": "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے"
+      },
+      {
+        "verse_number": 2,
+        "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "translation_urdu": "سب تعریفیں اللہ ہی کے لیے ہیں جو تمام جہانوں کا پالنے والا ہے"
+      },
+      {
+        "verse_number": 3,
+        "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation_urdu": "بہت مہربان نہایت رحم کرنے والا ہے"
+      },
+      {
+        "verse_number": 4,
+        "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+        "translation_urdu": "روزِ جزا کا مالک ہے"
+      },
+      {
+        "verse_number": 5,
+        "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "translation_urdu": "ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں"
+      },
+      {
+        "verse_number": 6,
+        "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "translation_urdu": "ہمیں سیدھے راستے کی ہدایت فرما"
+      },
+      {
+        "verse_number": 7,
+        "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "translation_urdu": "ان لوگوں کا راستہ جن پر تو نے انعام فرمایا، نہ کہ ان کا جن پر غضب نازل ہوا اور نہ گمراہوں کا"
+      }
+    ]
   },
   {
     "surah_number": 112,
     "name_arabic": "الإخلاص",
     "name_english": "Al-Ikhlas",
     "name_urdu": "الاخلاص",
-    "total_verses": 4
-  },
-  {
-    "surah_number": 113,
-    "name_arabic": "الفلق",
-    "name_english": "Al-Falaq",
-    "name_urdu": "الفلق",
-    "total_verses": 5
-  },
-  {
-    "surah_number": 114,
-    "name_arabic": "الناس",
-    "name_english": "An-Nas",
-    "name_urdu": "الناس",
-    "total_verses": 6
+    "total_verses": 4,
+    "verses": [
+      {
+        "verse_number": 1,
+        "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "translation_urdu": "آپ فرما دیجئے کہ وہ اللہ ایک ہے"
+      },
+      {
+        "verse_number": 2,
+        "arabic": "اللَّهُ الصَّمَدُ",
+        "translation_urdu": "اللہ بے نیاز ہے"
+      },
+      {
+        "verse_number": 3,
+        "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "translation_urdu": "نہ اس کی کوئی اولاد ہے اور نہ وہ کسی کی اولاد ہے"
+      },
+      {
+        "verse_number": 4,
+        "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "translation_urdu": "اور کوئی اس کا ہمسر نہیں ہے"
+      }
+    ]
   }
 ]
