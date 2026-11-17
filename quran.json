@@ -1,0 +1,44 @@
+[
+  {
+    "surah_number": 1,
+    "name_arabic": "الفاتحة",
+    "name_english": "Al-Fatiha",
+    "name_urdu": "الفاتحہ",
+    "total_verses": 7
+  },
+  {
+    "surah_number": 2,
+    "name_arabic": "البقرة",
+    "name_english": "Al-Baqarah",
+    "name_urdu": "البقرہ",
+    "total_verses": 286
+  },
+  {
+    "surah_number": 3,
+    "name_arabic": "آل عمران",
+    "name_english": "Aal-E-Imran",
+    "name_urdu": "آل عمران",
+    "total_verses": 200
+  },
+  {
+    "surah_number": 112,
+    "name_arabic": "الإخلاص",
+    "name_english": "Al-Ikhlas",
+    "name_urdu": "الاخلاص",
+    "total_verses": 4
+  },
+  {
+    "surah_number": 113,
+    "name_arabic": "الفلق",
+    "name_english": "Al-Falaq",
+    "name_urdu": "الفلق",
+    "total_verses": 5
+  },
+  {
+    "surah_number": 114,
+    "name_arabic": "الناس",
+    "name_english": "An-Nas",
+    "name_urdu": "الناس",
+    "total_verses": 6
+  }
+]
